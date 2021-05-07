@@ -1,2 +1,2 @@
-# Grade-Server-App
+# Ggrade app
 Grade server and client applications for the course operating systems.
